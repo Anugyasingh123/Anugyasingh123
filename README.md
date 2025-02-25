@@ -1,11 +1,11 @@
-# 👋 Hi, I'm [Your Name]  
+# 👋 Hi, I'm Anugya singh 
 
 🎓 **BCA Student | Web Developer | Tech Enthusiast**  
 
 I'm passionate about **building web applications, problem-solving, and learning new technologies**. I have experience working on **full-stack projects**, including an **eCommerce website** and an **Event Management System** using **MERN stack (MongoDB, Express.js, React, Node.js)**.
 
 ---
-![GIF Description](https://media.giphy.com/media/cNfIqjpCY1zqfaLmd8/giphy.gif?cid=ecf05e4731voy09lbmuyqdsmwu3pecj0vmi0iq5s7pb6akjb&ep=v1_gifs_related&rid=giphy.gif&ct=g)
+![Coding GIF](https://media.giphy.com/media/cNfIqjpCY1zqfaLmd8/giphy.gif?cid=ecf05e4731voy09lbmuyqdsmwu3pecj0vmi0iq5s7pb6akjb&ep=v1_gifs_related&rid=giphy.gif&ct=g)
 
 
 ## 🚀 **Tech Stack & Skills**
