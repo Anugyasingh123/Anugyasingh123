@@ -13,30 +13,27 @@ I'm passionate about **building web applications, problem-solving, and learning 
 🛠️ **Backend:** Node.js, Express.js, MongoDB (Mongoose)  
 📦 **Version Control:** Git, GitHub  
 🌐 **Other Tools:** Postman, Firebase, Netlify, Vercel  
-📚 **Currently Learning:** TypeScript, Next.js  
 
 ---
 
 ## 🏆 **Projects I've Worked On**
-🔹 **[Tunic - Fashion eCommerce Website](https://github.com/your-username/tunic)**  
+🔹 **[Tunic - Fashion eCommerce Website](https://anugyasingh123.github.io/Project1/)**  
 🛍️ A stylish and responsive **fashion e-commerce website** with login, categories, and cart features.  
 
-🔹 **[Event Management System](https://github.com/your-username/event-management)**  
-📅 A **MERN stack** event management platform for seamless event booking and management.  
 
 ---
 
 ## 📊 **GitHub Stats**
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=tokyonight)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Anugyasingh123&show_icons=true&theme=tokyonight)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Anugyasingh123&layout=compact&theme=tokyonight)  
 
 ---
 
 ## 📞 **Let's Connect!**
-📩 **Email:** [your-email@example.com](mailto:your-email@example.com)  
-🔗 **LinkedIn:** [Your Profile](https://linkedin.com/in/your-username)  
-💻 **GitHub:** [Your GitHub Profile](https://github.com/your-username)  
-📱 **Phone:** [+91 XXXXXXXXXX](tel:+91XXXXXXXXXX)  
+📩 **Email:** [your-email@example.com](mailto:anugya.queen06@gmail.com)  
+🔗 **LinkedIn:** [Your Profile](https://linkedin.com/in/anugya-singh-3a854133b)  
+💻 **GitHub:** [Your GitHub Profile](https://github.com/Anugyasingh123)  
+📱 **Phone:** [+91 XXXXXXXXXX](tel:+917525939559)  
 
 ---
 
