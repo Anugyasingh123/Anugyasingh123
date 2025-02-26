@@ -2,7 +2,7 @@
 
 🎓 **BCA Student | Web Developer | Tech Enthusiast**  
 
-I'm passionate about **building web applications, problem-solving, and learning new technologies**. I have experience working on **full-stack projects**, including an **eCommerce website** and an **Event Management System** using **MERN stack (MongoDB, Express.js, React, Node.js)**.
+Adaptable Web Engineer with expertise in HTML, CSS,JavaScript, and MongoDB, driven to deliver responsive, user-centric applications. Combines innovation with problem-solving to harness Generative AI and emerging technologies rapidly. Proficient in Git, RESTful APIs, and testing frameworks like Jest, ensuring seamless team collaboration.
 
 ---
 ![Coding GIF](https://media.giphy.com/media/cNfIqjpCY1zqfaLmd8/giphy.gif?cid=ecf05e4731voy09lbmuyqdsmwu3pecj0vmi0iq5s7pb6akjb&ep=v1_gifs_related&rid=giphy.gif&ct=g)
@@ -19,6 +19,7 @@ I'm passionate about **building web applications, problem-solving, and learning 
 ## 🏆 **Projects I've Worked On**
 🔹 **[Tunic - Fashion eCommerce Website](https://anugyasingh123.github.io/Project1/)**  
 🛍️ A stylish and responsive **fashion e-commerce website** with login, categories, and cart features.  
+Developed and maintained a responsive fashion e-commerce website using HTML, CSS, and JavaScript,inspired by Myntra. Implemented interactive design features to enhance user experience and ensure accessibility across devices. Integrated dynamic content using RESTful APIs to keep fashion trends and product listings up-to-date. Utilized Git for version control and collaborated on the project through GitHub workflows. Ensured application reliability by debugging and resolving issues, enhancing the website's functionality.
 
 
 ---
@@ -33,7 +34,7 @@ I'm passionate about **building web applications, problem-solving, and learning 
 📩 **Email:** [your-email@example.com](mailto:anugya.queen06@gmail.com)  
 🔗 **LinkedIn:** [Your Profile](https://linkedin.com/in/anugya-singh-3a854133b)  
 💻 **GitHub:** [Your GitHub Profile](https://github.com/Anugyasingh123)  
-📱 **Phone:** [+91 XXXXXXXXXX](tel:+917525939559)  
+📱 **Phone:** [+91 7525939559](tel:+917525939559)  
 
 ---
 
