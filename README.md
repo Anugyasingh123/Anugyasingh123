@@ -2,7 +2,7 @@
 
 🎓 **BCA Student | Web Developer | Tech Enthusiast**  
 
-Adaptable Web Engineer with expertise in HTML, CSS,JavaScript, and MongoDB, driven to deliver responsive, user-centric applications. Combines innovation with problem-solving to harness Generative AI and emerging technologies rapidly. Proficient in Git, RESTful APIs, and testing frameworks like Jest, ensuring seamless team collaboration.
+Creative Web Engineer with expertise in HTML, CSS,JavaScript, and MongoDB, driven to deliver responsive, user-centric applications. Combines innovation with problem-solving to harness Generative AI and emerging technologies rapidly. Proficient in Git, RESTful APIs, and testing frameworks like Jest, ensuring seamless team collaboration.
 
 ---
 ![Coding GIF](https://media.giphy.com/media/cNfIqjpCY1zqfaLmd8/giphy.gif?cid=ecf05e4731voy09lbmuyqdsmwu3pecj0vmi0iq5s7pb6akjb&ep=v1_gifs_related&rid=giphy.gif&ct=g)
