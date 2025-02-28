@@ -21,10 +21,10 @@ Creative Web Engineer with expertise in HTML, CSS,JavaScript, and MongoDB, drive
 🛍️ A stylish and responsive **fashion e-commerce website** with login, categories, and cart features.  
 Developed and maintained a responsive fashion e-commerce website using HTML, CSS, and JavaScript,inspired by Myntra. Implemented interactive design features to enhance user experience and ensure accessibility across devices. Integrated dynamic content using RESTful APIs to keep fashion trends and product listings up-to-date. Utilized Git for version control and collaborated on the project through GitHub workflows. Ensured application reliability by debugging and resolving issues, enhancing the website's functionality.
 I have used the following </br>
-✅ Javascript
-✅ CSS
-✅ Git
-✅ HTML
+✅ Javascript</br>
+✅ CSS</br>
+✅ Git</br>
+✅ HTML</br>
 ✅ Responsive web design
 
 
