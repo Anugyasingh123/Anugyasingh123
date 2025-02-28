@@ -31,7 +31,7 @@ I have used the following </br>
 ---
 
 ## 📊 **GitHub Stats**
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Anugyasingh123&show_icons=true&theme=tokyonight)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Anugysingh123&show_icons=true&theme=tokyonight)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Anugyasingh123&layout=compact&theme=tokyonight)  
 
 ---
