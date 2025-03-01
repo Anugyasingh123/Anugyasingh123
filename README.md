@@ -40,6 +40,8 @@ I have used the following </br>
 📩 **Email:** [your-email@example.com](mailto:anugya.queen06@gmail.com)  
 🔗 **LinkedIn:** [Your Profile](https://linkedin.com/in/anugya-singh-3a854133b)  
 💻 **GitHub:** [Your GitHub Profile](https://github.com/Anugyasingh123)  
+📖 **Resume:**[Your resume](https://drive.google.com/file/d/1aEjcu9ypbtbdgNxx7TghQiuKfUFaxmmB/view?usp=sharing)
+📘 **Portfolio:**[Your portfolio](https://anugyasingh123.github.io/Portfolio/)
 📱 **Phone:** [+91 7525939559](tel:+917525939559)  
 
 ---
