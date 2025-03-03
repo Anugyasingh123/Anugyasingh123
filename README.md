@@ -37,11 +37,11 @@ I have used the following </br>
 ---
 
 ## 📞 **Let's Connect!**
-📩 **Email:** [your-email@example.com](mailto:anugya.queen06@gmail.com)  
-🔗 **LinkedIn:** [Your Profile](https://linkedin.com/in/anugya-singh-3a854133b)  
-💻 **GitHub:** [Your GitHub Profile](https://github.com/Anugyasingh123)  
-📖 **Resume:**[Your resume](https://drive.google.com/file/d/1aEjcu9ypbtbdgNxx7TghQiuKfUFaxmmB/view?usp=sharing)</br>
-📘 **Portfolio:**[Your portfolio](https://anugyasingh123.github.io/Portfolio/)</br>
+📩 **Email:** [anugya.queen06@example.com](mailto:anugya.queen06@gmail.com)  
+🔗 **LinkedIn:** [anugya-singh-3a854133b](https://linkedin.com/in/anugya-singh-3a854133b)  
+💻 **GitHub:** [Anugyasingh123](https://github.com/Anugyasingh123)  
+📖 **Resume:**[My resume](https://drive.google.com/file/d/1aEjcu9ypbtbdgNxx7TghQiuKfUFaxmmB/view?usp=sharing)</br>
+📘 **Portfolio:**[My portfolio](https://anugyasingh123.github.io/Portfolio/)</br>
 📱 **Phone:** [+91 7525939559](tel:+917525939559)  
 
 ---
