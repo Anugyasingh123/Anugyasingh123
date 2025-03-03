@@ -37,7 +37,7 @@ I have used the following </br>
 ---
 
 ## 📞 **Let's Connect!**
-📩 **Email:** [anugya.queen06@example.com](mailto:anugya.queen06@gmail.com)  
+📩 **Email:** [anugya.queen06@gmail.com](mailto:anugya.queen06@gmail.com)  
 🔗 **LinkedIn:** [anugya-singh-3a854133b](https://linkedin.com/in/anugya-singh-3a854133b)  
 💻 **GitHub:** [Anugyasingh123](https://github.com/Anugyasingh123)  
 📖 **Resume:**[My resume](https://drive.google.com/file/d/1aEjcu9ypbtbdgNxx7TghQiuKfUFaxmmB/view?usp=sharing)</br>
